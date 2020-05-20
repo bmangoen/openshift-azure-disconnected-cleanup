@@ -1,0 +1,1 @@
+# Openshift Azure disconnected cleanup
